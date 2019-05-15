@@ -1,0 +1,52 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.jumbotron
+{
+margin-bottom: 0px !important;
+}
+.content
+{
+    position: relative;
+    
+}
+.cars
+{
+    position: relative;
+    
+}
+.card
+{
+    position: relative;
+    margin-top: 10px;
+}
+ul
+{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+li
+{
+    float: left; 
+    margin-left:10px;
+}
+footer
+{
+    position: relative;
+    margin-top: 2%;
+}
+
+@media screen and (max-width:800px) {
+    .right-menu
+    {
+        display: none;
+    }
+
+}
+
+  
